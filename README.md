@@ -34,7 +34,7 @@ Backend	Streamlit, Python 3.9, NumPy
 
 🚀 Guide de Déploiement Rapide
 
-1. Local Development
+Local Development
    
 bash
 
