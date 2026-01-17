@@ -13,7 +13,7 @@ Déploiement d'un modèle **MobileNetV2** pour la segmentation sémantique sur l
 **Niveau :** 5IIIA
 
 ## 🏗️ Architecture Technique
-(voir architecture.png)
+(voir architecture vpo.png)
 
 
 🎨 Dataset & Modèle
