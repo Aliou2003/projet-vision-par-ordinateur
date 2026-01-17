@@ -4,7 +4,7 @@
 Dévelopé par DIALLO Mamadou Aliou, DIALLO Mamadou Dian & CHARKANI EL HASSANI Mohammed 
 
 ## 📋 Résumé du Projet
-Déploiement d'un modèle **MobileNetV2** pour la segmentation sémantique sur le dataset **Oxford-IIIT Pets**, avec une interface Streamlit.
+Déploiement d'un modèle **MobileNetV2** pour la segmentation sur le dataset **Oxford-IIIT Pets**, avec une interface Streamlit.
 
 **Période :** 27/12/2025 au 18/01/2026  
 
